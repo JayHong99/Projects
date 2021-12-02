@@ -48,7 +48,7 @@
     - Image text generation using Encoder-to-Decoder Model
     - 코드 정리 후 업로드 예정
 
-### *2021*
+### **2021**
 - 마케팅 전략 ( Personal Project )
     - 편의점 Promotion 상품 데이터 분석을 통한 구독형 서비스 개발
     - 편의점 Promotion 상품 수요 관련 report 기반 수요 확인
