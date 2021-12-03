@@ -45,7 +45,7 @@
 
 - 딥러닝 ( Team Project )
     - tensorflow 2.x , python
-    - Image text generation using Encoder-to-Decoder Model
+    - Image Caotioning with MSCOCO in Korean with Encoder-Decoder Model
     - 코드 정리 후 업로드 예정
 
 ### **2021**
