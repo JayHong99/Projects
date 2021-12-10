@@ -27,8 +27,8 @@
   - https://dacon.io/competitions/official/235647/codeshare/2428?page=1&dtype=recent
   - https://dacon.io/competitions/official/235647/codeshare/2430?page=1&dtype=recent
 - ``` <DACON 소설 작가 분류 AI 경진대회 | 7위 수상 (792명, 287팀) - CNN Ensemble in purple 
-  - 소설 작가 분류 모델 개발 : Text Tokenization + Word Embedding -> CNN Hypter Params Ensemble
-  - https://dacon.io/competitions/official/235670/codeshare/1900?page=2&dtype=recent ```
+  - 소설 작가 분류 모델 개발 : Text Tokenization + Word Embedding -> CNN Hypter Params Ensemble```
+  - https://dacon.io/competitions/official/235670/codeshare/1900?page=2&dtype=recent 
 
 ### **2021년**
 
@@ -36,11 +36,11 @@
   - Data 보안 이슈로 코드 X
  
 - ```DACON 운동 동작 분류 AI 경진대회 | 4위 수상 (774명, 336팀) - 3 Model ML + CBAM Ensemble
-  - LGBM, XGB, EXt => Voting Classifier + Convolutional Batch Bam Model
-  - https://dacon.io/competitions/official/235689/codeshare/2387?page=3&dtype=recent ```
+  - LGBM, XGB, EXt => Voting Classifier + Convolutional Batch Bam Model```
+  - https://dacon.io/competitions/official/235689/codeshare/2387?page=3&dtype=recent 
 
-- ```플랫포머스 소비자-매니저 만족도 예측 경진대회 | 4위 수상 (50명, 15팀) - 3 Model ML
-  - Data EDA + Extra Trees Classifier Hyper Params Opt ```
+- ```플랫포머스 소비자-매니저 만족도 예측 경진대회 | 4위 수상 (50명, 15팀) - 3 Model ML```
+  - Data EDA + Extra Trees Classifier Hyper Params Opt 
 
 - 국토연구원 제주시 내 택배 운송 데이터를 이용하여 운송량 예측 AI 개발 | 진행중
   - 진행중
