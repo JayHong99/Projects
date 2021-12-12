@@ -56,4 +56,5 @@
     - -> GS25 Promotion Risk Check & Suggest new promotion
 - 인공지능과 최신기술 (Persoanl Project)
     - 뉴스 기사 자동 생성
-    - News 제목을 기반으로 뉴스 기사 내용을 자동으로 생성하는 모델
+    - News 제목을 기반으로 50자 이내 뉴스 기사 내용을 생성하는 모델
+    - Huggingface -> GPT2 Base 
