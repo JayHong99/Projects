@@ -9,9 +9,9 @@
   - 코드 제출도 삭제
   - 잔여 record 없음
 
-- ```오렌지라이프 “대학생 55초 영상 공모전” | 최종 2위 -> 대표자 대표 수상으로 명단 제외
+- ```오렌지라이프 “대학생 55초 영상 공모전” | 최종 2위 -> 대표자 대표 수상으로 명단 제외```
   - 일상생활을 즐길 수 있는 새로운 커뮤니티, 오렌지라이프 55초 홍보 영상
-  - 최종 2위이지만, 대표자 수상으로 삭제. ```
+  - 최종 2위이지만, 대표자 수상으로 삭제. 
 
 - 공공도서관 빅데이터 공모전 : “지난 달 빌렸던 책이 이번달 프로그램으로!”
   - 공공 도서관 빅데이터 공모전 "도서관 프로그램 추천 시스템"
@@ -26,7 +26,8 @@
   - https://dacon.io/competitions/official/235647/codeshare/2425?page=1&dtype=recent
   - https://dacon.io/competitions/official/235647/codeshare/2428?page=1&dtype=recent
   - https://dacon.io/competitions/official/235647/codeshare/2430?page=1&dtype=recent
-- ``` <DACON 소설 작가 분류 AI 경진대회 | 7위 수상 (792명, 287팀) - CNN Ensemble in purple 
+
+- ```DACON 소설 작가 분류 AI 경진대회 | 7위 수상 (792명, 287팀) - CNN Ensemble```
   - 소설 작가 분류 모델 개발 : Text Tokenization + Word Embedding -> CNN Hypter Params Ensemble
   - https://dacon.io/competitions/official/235670/codeshare/1900?page=2&dtype=recent ```
 
@@ -35,13 +36,19 @@
 - LG 시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회 | 상위 14% (1396명, 58위/418팀)
   - Data 보안 이슈로 코드 X
  
-- ```DACON 운동 동작 분류 AI 경진대회 | 4위 수상 (774명, 336팀) - 3 Model ML + CBAM Ensemble
+- ```DACON 운동 동작 분류 AI 경진대회 | 4위 수상 (774명, 336팀) - 3 Model ML + CBAM Ensemble```
   - LGBM, XGB, EXt => Voting Classifier + Convolutional Batch Bam Model
-  - https://dacon.io/competitions/official/235689/codeshare/2387?page=3&dtype=recent ```
+  - https://dacon.io/competitions/official/235689/codeshare/2387?page=3&dtype=recent 
 
-- ```플랫포머스 소비자-매니저 만족도 예측 경진대회 | 4위 수상 (50명, 15팀) - 3 Model ML
-  - Data EDA + Extra Trees Classifier Hyper Params Opt ```
+- ```플랫포머스 소비자-매니저 만족도 예측 경진대회 | 4위 수상 (50명, 15팀) - 3 Model ML```
+  - Data EDA + Extra Trees Classifier Hyper Params Opt 
 
+<<<<<<< HEAD
 - 국토연구원 물류 유통량 예측 경진대회 | 진행중
   - 제주시 택배 운송 데이터를 이용하여 운송량 예측
   - https://dacon.io/competitions/official/235867/overview/description
+=======
+- 국토연구원 제주시 내 택배 운송 데이터를 이용하여 운송량 예측 AI 개발 | 진행중
+  - 진행중
+  - https://dacon.io/competitions/official/235867/overview/description
+>>>>>>> 88eb2e731704687b42a83c6e28867e41f25ded69
