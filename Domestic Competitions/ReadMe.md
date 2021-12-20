@@ -43,12 +43,6 @@
 - ```플랫포머스 소비자-매니저 만족도 예측 경진대회 | 4위 수상 (50명, 15팀) - 3 Model ML```
   - Data EDA + Extra Trees Classifier Hyper Params Opt 
 
-<<<<<<< HEAD
 - 국토연구원 물류 유통량 예측 경진대회 | 진행중
   - 제주시 택배 운송 데이터를 이용하여 운송량 예측
   - https://dacon.io/competitions/official/235867/overview/description
-=======
-- 국토연구원 제주시 내 택배 운송 데이터를 이용하여 운송량 예측 AI 개발 | 진행중
-  - 진행중
-  - https://dacon.io/competitions/official/235867/overview/description
->>>>>>> 88eb2e731704687b42a83c6e28867e41f25ded69
