@@ -45,5 +45,5 @@
 
 - 국토연구원 물류 유통량 예측 경진대회 | 진행중
   - 제주시 택배 운송 데이터를 이용하여 운송량 예측
-  - Simple Catboost Regressor + Deep Auto Encoded NN Ensemble
+  - Simple Catboost Regressor + Deep Auto Encoder + NN Ensemble
   - https://dacon.io/competitions/official/235867/overview/description
