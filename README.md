@@ -12,6 +12,7 @@
 - 운동 동작 분류 AI 경진대회
 - 소비자-매니저 매칭 만족도 예측 경진대회
 - 물류 유통량 예측 경진대회
+- Rayence x Yonsei Univ. Medical Image Processing Competition
 
 ## School Project Records
 - 시니어 세대를 대상으로한 마케팅 계획안
